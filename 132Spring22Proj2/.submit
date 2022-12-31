@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project P2 - Minimum Snippet: Minimum Snippet
+
+courseName=CMSC132
+semester=202201
+projectNumber=P2 - Minimum Snippet
+courseKey=ceebc061b47651bc
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2022
+submitURL=https://submit.cs.umd.edu:443/spring2022/eclipse/SubmitProjectViaEclipse
